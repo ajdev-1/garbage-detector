@@ -1,3 +1,5 @@
+If the above Jupyter Notebook does not work please try [this URL](https://nbviewer.jupyter.org/github/ajdev-1/garbage-detector/blob/master/garbage_detector.ipynb) which uses Jupyter Notebook Viewer. :blush:
+
 # Garbage Object Detection
 
 In this project, I trained an object detection model that classifies garbage into the different German garbage separation categories.
