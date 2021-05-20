@@ -24,4 +24,7 @@ Due to the too small amount of data, I was not able to train a model that could 
 
 ![image](https://user-images.githubusercontent.com/38671044/119031418-5ca81e80-b9ab-11eb-9442-1ac5daea6cea.png)
 
+![image](https://user-images.githubusercontent.com/38671044/119031483-6f225800-b9ab-11eb-8efe-ef8ef77a0866.png)
+
+
 
